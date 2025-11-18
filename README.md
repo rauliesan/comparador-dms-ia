@@ -70,7 +70,7 @@ Abre tu navegador y visita [http://localhost:3000](http://localhost:3000) para e
 
 
 ## 5. Estructura del Proyecto
-
+```
 /
 |-- /components # Componentes de React para la UI
 |-- /lib # Lógica del servidor (BBDD, APIs de IA)
@@ -82,3 +82,4 @@ Abre tu navegador y visita [http://localhost:3000](http://localhost:3000) para e
 |-- database-schema.sql # Script SQL para la creación de tablas
 |-- package.json # Dependencias y scripts
 |-- README.md # Este archivo
+```
